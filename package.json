@@ -2,15 +2,8 @@
   "name": "wheel-or-restaurants",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-  	"@babel/cli": "^7.12.8"
-  },
-  
   "scripts": {
-    "start": "babel-node backend/server.js",
+    "start": "cd frontend && yarn start",
     "server": "cd backend && yarn server",
-    "clean": "rm -rf build && mkdir build",
-    "build-babel": "babel -d ./build ./src -s",
-    "build": "npm run clean && npm run build-babel"
   }
 }
