@@ -15,9 +15,19 @@ You can either go to the website and [use it our way](#use-it-our-way) or [build
 + client: ```yarn start```
 
 ## Where's our resources & references?
-+ [The Wheel](https://github.com/hadriengerard/spinning-wheel-game-react/tree/master/)
-+ [Ant Design](https://ant.design/components/overview/)
-+ [MongoDB](https://www.mongodb.com/1)
++ Frontend：
+    + React.js
+    + react hooks
+    + axios
+    + [Ant Design](https://ant.design/components/overview/)
+    + [spinning-wheel-game-react](https://github.com/hadriengerard/spinning-wheel-game-react/tree/master/)
++ Backend：
+    + Node.js
+    + express
+    + bcrypt
++ Database： 
+    + [MongoDB](https://www.mongodb.com/1)
+    + mongoose
 
 ## Who made what?
 + B06902119   張原豪
