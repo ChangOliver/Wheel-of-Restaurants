@@ -7,9 +7,17 @@
 + **[Demo 影片連結](https://www.youtube.com/watch?v=sO03RFtJH7E)**
 
 ## 使用方式＆功能介紹
-### 啟動方式
-+ Server： ```yarn server```
-+ Client： ```yarn start```
+### Hosting on local machine
++ 安裝 modules
+```
+yarn   
+cd frontend && yarn
+cd ../bakend && yarn
+```
++ 建立.env檔案並提供MongoDB連結
++ 啟動
+    + Server： ```yarn server```
+    + Client： ```yarn start```
 ### Login / Register
 + 畫面: ![](https://i.imgur.com/xqxWmFk.png)
 + 功能：
@@ -32,10 +40,10 @@
     + 在點擊的瞬間決定抽選的結果，並透過css來實現轉盤旋轉的動畫，並且控制右方的地圖在合理的時間點顯示資訊
 ### All / Favorite / Blacklist Tabs
 + 畫面:
-    + 所有餐廳 
-        + ![](https://i.imgur.com/5tFW24l.png)  
+    + 所有餐廳
+![](https://i.imgur.com/5tFW24l.png)
     + 最愛清單（黑名單亦同）
-        + ![](https://i.imgur.com/QANooy4.png)
+![](https://i.imgur.com/QANooy4.png)
 
 + 功能：
     + 提供所有的餐廳列表，可以透過搜尋的方式找到餐廳資訊，也可以讓當前使用者建立客製化列表，以利之後再次使用時能夠更快的決定想要加入的餐廳
