@@ -12,9 +12,9 @@
 ```
 yarn   
 cd frontend && yarn
-cd ../bakend && yarn
+cd ../backend && yarn
 ```
-+ 建立.env檔案並提供MongoDB連結
++ 在backend建立.env檔案並提供MongoDB連結
 + 啟動
     + Server： ```yarn server```
     + Client： ```yarn start```
