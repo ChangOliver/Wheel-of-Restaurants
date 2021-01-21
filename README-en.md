@@ -11,8 +11,16 @@ You can either go to the website and [use it our way](#use-it-our-way) or [build
 + Watch the [Demo video](https://www.youtube.com/watch?v=sO03RFtJH7E)
 
 ### Build it yourself
-+ server: ```yarn server```
-+ client: ```yarn start```
++ Install modules
+```
+yarn   
+cd frontend && yarn
+cd ../backend && yarn
+```
++ Create an .env file in the backend folder and provide a MongoDB link.
++ Running
+    + Server： ```yarn server```
+    + Client： ```yarn start```
 
 ## Where's our resources & references?
 + Frontend：
