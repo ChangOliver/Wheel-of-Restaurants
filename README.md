@@ -44,10 +44,10 @@ cd ../backend && yarn
 ### All / Favorite / Blacklist Tabs
 + 畫面:
     + 所有餐廳
-![](https://i.imgur.com/5tFW24l.png)
+        + ![](https://i.imgur.com/5tFW24l.png)
     + 最愛清單（黑名單亦同）
-![](https://i.imgur.com/QANooy4.png)
-
+        + ![](https://i.imgur.com/QANooy4.png)
+        
 + 功能：
     + 提供所有的餐廳列表，可以透過搜尋的方式找到餐廳資訊，也可以讓當前使用者建立客製化列表，以利之後再次使用時能夠更快的決定想要加入的餐廳
     + 餐廳底下提供簡易資訊如：價格、種類、地點
