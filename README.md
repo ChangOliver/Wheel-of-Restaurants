@@ -40,7 +40,7 @@ cd ../backend && yarn
     + 轉盤根據Wheel餐廳數量平均分割。
     + 在點擊的瞬間決定抽選的結果，並透過css來實現轉盤旋轉的動畫，並且控制右方的地圖在合理的時間點顯示資訊
     + 從加入Wheel中的選項中隨機選取一個ID，並透過CSS轉到這家餐廳。
-    + Choises的數量是透過Filter來減少Wheel上的餐廳。
+    + Choices的數量是透過Filter來減少Wheel上的餐廳。
 ### All / Favorite / Blacklist Tabs
 + 畫面:
     + 所有餐廳
